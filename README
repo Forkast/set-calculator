@@ -1,3 +1,5 @@
 Calculator for simple set operations.
 Can SUBTRACT, SUM and INTERSECT files.
 Files need to be sorted ascending.
+example:
+./mnog [ INTERSECT [ SUM a.txt b.txt ] c.txt ]
